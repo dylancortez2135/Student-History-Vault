@@ -1,8 +1,8 @@
 # Student-History-Vault
 This is a Data Pipeline with temporal modeling project designed to manage and track student records within a University setting. Capturing how student metrics such as academic averages, attendance, and honors eligibility evolve over multiple semesters.
   The system supports:
-  **- Incremental Updates (for efficient, periodic data ingestion)**
-  **2. Batch Reconstructive Views (for generating a complete historical record easily)**
+  - Incremental Updates (for efficient, periodic data ingestion)
+  - Batch Reconstructive Views (for generating a complete historical record easily)
 
 
 ## 📌 Overview
@@ -22,13 +22,13 @@ I've seen the inefficiencies of my University in calculating academic awards eli
   2. Have a cleaner Historical data of Student Records for easier tracking.
 
 
-🛢️ SQL Query:
+🛢️ SQL:
 [student-history-vault.sql](student-history-vault.sql)
 
 
   Includes:
   - Incremental (Iterative) Update Query
-  - Batch (Reconstructive) View
+  - Batch (Reconstructive) View Query
     
 ## 📊 Processed Data :
 ![Snippet](processed_data1.png)
@@ -44,4 +44,5 @@ File: [student_performance_raw.csv](student_performance_raw.csv)
 For questions, feedback, or collaboration:
 
 **Email**📧: dylancortez.data@gmail.com
+
 **LinkedIn**➡️: https://www.linkedin.com/in/dylan-anthony-cortez/
