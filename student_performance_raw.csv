@@ -1,0 +1,701 @@
+Student_number,College,Program,Section,School_year,Semester,Year_level,Average,Absents,Year,Month
+2022388222,College of Engineering and Architecture,BS Architecture,A,2022,1st,1,90.96,2,2021,12
+2022388222,College of Engineering and Architecture,BS Architecture,A,2022,2nd,1,96.37,0,2022,6
+2022388222,College of Engineering and Architecture,BS Architecture,A,2023,1st,2,97.93,0,2022,12
+2022388222,College of Engineering and Architecture,BS Architecture,A,2023,2nd,2,90.96,0,2023,6
+2022388222,College of Engineering and Architecture,BS Architecture,A,2024,1st,3,86.97,0,2023,12
+2022388222,College of Engineering and Architecture,BS Architecture,A,2024,2nd,3,96.82,0,2024,6
+2022388222,College of Engineering and Architecture,BS Architecture,A,2025,1st,4,95.86,0,2024,12
+2022388222,College of Engineering and Architecture,BS Architecture,A,2025,2nd,4,87.36,1,2025,6
+2022535545,College of Engineering and Architecture,BS Architecture,A,2022,1st,1,85.15,0,2021,12
+2022535545,College of Engineering and Architecture,BS Architecture,A,2022,2nd,1,90.04,0,2022,6
+2022535545,College of Engineering and Architecture,BS Architecture,A,2023,1st,2,97.22,0,2022,12
+2022535545,College of Engineering and Architecture,BS Architecture,A,2023,2nd,2,92.11,0,2023,6
+2022535545,College of Engineering and Architecture,BS Architecture,A,2024,1st,3,96.29,0,2023,12
+2022535545,College of Engineering and Architecture,BS Architecture,A,2024,2nd,3,94.14,1,2024,6
+2022535545,College of Engineering and Architecture,BS Architecture,A,2025,1st,4,96.25,1,2024,12
+2022535545,College of Engineering and Architecture,BS Architecture,A,2025,2nd,4,94.48,0,2025,6
+2022780919,College of Engineering and Architecture,BS Architecture,A,2022,1st,1,85.64,0,2021,12
+2022780919,College of Engineering and Architecture,BS Architecture,A,2022,2nd,1,91.29,0,2022,6
+2022780919,College of Engineering and Architecture,BS Architecture,A,2023,1st,2,87.69,0,2022,12
+2022780919,College of Engineering and Architecture,BS Architecture,A,2023,2nd,2,86.78,0,2023,6
+2022780919,College of Engineering and Architecture,BS Architecture,A,2024,1st,3,96.13,0,2023,12
+2022780919,College of Engineering and Architecture,BS Architecture,A,2024,2nd,3,86.85,2,2024,6
+2022780919,College of Engineering and Architecture,BS Architecture,A,2025,1st,4,86.62,0,2024,12
+2022780919,College of Engineering and Architecture,BS Architecture,A,2025,2nd,4,95.06,0,2025,6
+2022396884,College of Engineering and Architecture,BS Architecture,A,2022,1st,1,96.67,1,2021,12
+2022396884,College of Engineering and Architecture,BS Architecture,A,2022,2nd,1,91.84,1,2022,6
+2022396884,College of Engineering and Architecture,BS Architecture,A,2023,1st,2,85.64,0,2022,12
+2022396884,College of Engineering and Architecture,BS Architecture,A,2023,2nd,2,86.44,3,2023,6
+2022396884,College of Engineering and Architecture,BS Architecture,A,2024,1st,3,93.43,0,2023,12
+2022396884,College of Engineering and Architecture,BS Architecture,A,2024,2nd,3,87.35,1,2024,6
+2022396884,College of Engineering and Architecture,BS Architecture,A,2025,1st,4,92.48,3,2024,12
+2022396884,College of Engineering and Architecture,BS Architecture,A,2025,2nd,4,85.33,0,2025,6
+2022814865,College of Engineering and Architecture,BS Architecture,A,2022,1st,1,85.94,1,2021,12
+2022814865,College of Engineering and Architecture,BS Architecture,A,2022,2nd,1,88.39,0,2022,6
+2022814865,College of Engineering and Architecture,BS Architecture,A,2023,1st,2,86.79,0,2022,12
+2022814865,College of Engineering and Architecture,BS Architecture,A,2023,2nd,2,85.27,0,2023,6
+2022814865,College of Engineering and Architecture,BS Architecture,A,2024,1st,3,97.76,1,2023,12
+2022814865,College of Engineering and Architecture,BS Architecture,A,2024,2nd,3,90.01,0,2024,6
+2022814865,College of Engineering and Architecture,BS Architecture,A,2025,1st,4,97.48,0,2024,12
+2022814865,College of Engineering and Architecture,BS Architecture,A,2025,2nd,4,92.25,1,2025,6
+2022308594,College of Engineering and Architecture,BS Architecture,A,2023,1st,1,93.99,0,2022,12
+2022308594,College of Engineering and Architecture,BS Architecture,A,2023,2nd,1,86.02,0,2023,6
+2022308594,College of Engineering and Architecture,BS Architecture,A,2024,1st,2,90.71,0,2023,12
+2022308594,College of Engineering and Architecture,BS Architecture,A,2024,2nd,2,96.91,0,2024,6
+2022308594,College of Engineering and Architecture,BS Architecture,A,2025,1st,3,91.09,2,2024,12
+2022308594,College of Engineering and Architecture,BS Architecture,A,2025,2nd,3,92.97,0,2025,6
+2022308594,College of Engineering and Architecture,BS Architecture,A,2026,1st,4,96.47,1,2025,12
+2022640898,College of Engineering and Architecture,BS Architecture,A,2023,1st,1,86.88,0,2022,12
+2022640898,College of Engineering and Architecture,BS Architecture,A,2023,2nd,1,93.23,0,2023,6
+2022640898,College of Engineering and Architecture,BS Architecture,A,2024,1st,2,88.86,0,2023,12
+2022640898,College of Engineering and Architecture,BS Architecture,A,2024,2nd,2,97.32,0,2024,6
+2022640898,College of Engineering and Architecture,BS Architecture,A,2025,1st,3,91.58,0,2024,12
+2022640898,College of Engineering and Architecture,BS Architecture,A,2025,2nd,3,86.99,0,2025,6
+2022640898,College of Engineering and Architecture,BS Architecture,A,2026,1st,4,87.56,0,2025,12
+2022767629,College of Engineering and Architecture,BS Architecture,A,2024,1st,1,91.88,0,2023,12
+2022767629,College of Engineering and Architecture,BS Architecture,A,2024,2nd,1,89.44,0,2024,6
+2022767629,College of Engineering and Architecture,BS Architecture,A,2025,1st,2,97.01,0,2024,12
+2022767629,College of Engineering and Architecture,BS Architecture,A,2025,2nd,2,89.09,0,2025,6
+2022767629,College of Engineering and Architecture,BS Architecture,A,2026,1st,3,89.69,0,2025,12
+2022371459,College of Engineering and Architecture,BS Architecture,A,2024,1st,1,85.54,0,2023,12
+2022371459,College of Engineering and Architecture,BS Architecture,A,2024,2nd,1,90.44,0,2024,6
+2022371459,College of Engineering and Architecture,BS Architecture,A,2025,1st,2,98.0,0,2024,12
+2022371459,College of Engineering and Architecture,BS Architecture,A,2025,2nd,2,92.81,3,2025,6
+2022371459,College of Engineering and Architecture,BS Architecture,A,2026,1st,3,90.7,0,2025,12
+2022477069,College of Engineering and Architecture,BS Architecture,A,2025,1st,1,91.64,0,2024,12
+2022477069,College of Engineering and Architecture,BS Architecture,A,2025,2nd,1,92.88,3,2025,6
+2022477069,College of Engineering and Architecture,BS Architecture,A,2026,1st,2,86.17,3,2025,12
+2022784895,College of Engineering and Architecture,BS Architecture,A,2025,1st,1,91.97,0,2024,12
+2022784895,College of Engineering and Architecture,BS Architecture,A,2025,2nd,1,91.01,0,2025,6
+2022784895,College of Engineering and Architecture,BS Architecture,A,2026,1st,2,95.44,1,2025,12
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2022,1st,1,85.88,0,2021,12
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2022,2nd,1,95.62,0,2022,6
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,2,93.7,0,2022,12
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,2,93.06,0,2023,6
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,3,96.4,0,2023,12
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,3,88.36,0,2024,6
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,4,89.87,0,2024,12
+2022941291,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,4,87.95,0,2025,6
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2022,1st,1,86.06,2,2021,12
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2022,2nd,1,96.25,0,2022,6
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,2,87.31,0,2022,12
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,2,97.02,1,2023,6
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,3,97.11,0,2023,12
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,3,94.86,0,2024,6
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,4,89.37,0,2024,12
+2022162049,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,4,87.27,0,2025,6
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2022,1st,1,92.86,0,2021,12
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2022,2nd,1,90.44,0,2022,6
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,2,90.86,0,2022,12
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,2,88.85,1,2023,6
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,3,97.95,1,2023,12
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,3,88.32,3,2024,6
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,4,95.92,0,2024,12
+2022892700,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,4,97.12,0,2025,6
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2022,1st,1,90.09,0,2021,12
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2022,2nd,1,88.62,0,2022,6
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,2,93.64,0,2022,12
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,2,85.1,0,2023,6
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,3,89.66,0,2023,12
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,3,93.35,0,2024,6
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,4,88.27,2,2024,12
+2022476117,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,4,96.51,0,2025,6
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2022,1st,1,87.58,0,2021,12
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2022,2nd,1,96.23,2,2022,6
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,2,93.87,0,2022,12
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,2,88.59,0,2023,6
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,3,97.29,0,2023,12
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,3,94.38,0,2024,6
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,4,87.46,0,2024,12
+2022520772,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,4,91.56,0,2025,6
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,1,86.1,0,2022,12
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,1,96.22,0,2023,6
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,2,97.55,0,2023,12
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,2,94.0,3,2024,6
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,3,88.75,0,2024,12
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,3,85.14,0,2025,6
+2022261121,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,4,97.16,0,2025,12
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2023,1st,1,90.3,0,2022,12
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2023,2nd,1,86.76,0,2023,6
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,2,94.22,0,2023,12
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,2,87.9,0,2024,6
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,3,85.98,0,2024,12
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,3,86.79,0,2025,6
+2022209403,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,4,94.2,0,2025,12
+2022595621,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,1,89.29,0,2023,12
+2022595621,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,1,88.46,0,2024,6
+2022595621,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,2,96.97,0,2024,12
+2022595621,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,2,86.32,0,2025,6
+2022595621,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,3,85.11,2,2025,12
+2022225490,College of Engineering and Architecture,BS Civil Engineering,A,2024,1st,1,87.39,0,2023,12
+2022225490,College of Engineering and Architecture,BS Civil Engineering,A,2024,2nd,1,92.95,1,2024,6
+2022225490,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,2,88.27,0,2024,12
+2022225490,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,2,89.71,0,2025,6
+2022225490,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,3,86.73,0,2025,12
+2022625711,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,1,88.48,0,2024,12
+2022625711,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,1,90.14,2,2025,6
+2022625711,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,2,94.88,0,2025,12
+2022916611,College of Engineering and Architecture,BS Civil Engineering,A,2025,1st,1,97.64,0,2024,12
+2022916611,College of Engineering and Architecture,BS Civil Engineering,A,2025,2nd,1,86.08,0,2025,6
+2022916611,College of Engineering and Architecture,BS Civil Engineering,A,2026,1st,2,92.7,1,2025,12
+2022864110,College of Arts and Sciences,BS Statistics,A,2022,1st,1,86.96,0,2021,12
+2022864110,College of Arts and Sciences,BS Statistics,A,2022,2nd,1,92.12,0,2022,6
+2022864110,College of Arts and Sciences,BS Statistics,A,2023,1st,2,93.29,1,2022,12
+2022864110,College of Arts and Sciences,BS Statistics,A,2023,2nd,2,97.97,0,2023,6
+2022864110,College of Arts and Sciences,BS Statistics,A,2024,1st,3,97.63,0,2023,12
+2022864110,College of Arts and Sciences,BS Statistics,A,2024,2nd,3,86.42,0,2024,6
+2022864110,College of Arts and Sciences,BS Statistics,A,2025,1st,4,95.68,0,2024,12
+2022864110,College of Arts and Sciences,BS Statistics,A,2025,2nd,4,85.08,3,2025,6
+2022803805,College of Arts and Sciences,BS Statistics,A,2022,1st,1,93.55,0,2021,12
+2022803805,College of Arts and Sciences,BS Statistics,A,2022,2nd,1,90.44,0,2022,6
+2022803805,College of Arts and Sciences,BS Statistics,A,2023,1st,2,94.1,3,2022,12
+2022803805,College of Arts and Sciences,BS Statistics,A,2023,2nd,2,90.3,0,2023,6
+2022803805,College of Arts and Sciences,BS Statistics,A,2024,1st,3,90.47,0,2023,12
+2022803805,College of Arts and Sciences,BS Statistics,A,2024,2nd,3,87.22,2,2024,6
+2022803805,College of Arts and Sciences,BS Statistics,A,2025,1st,4,85.22,0,2024,12
+2022803805,College of Arts and Sciences,BS Statistics,A,2025,2nd,4,97.62,0,2025,6
+2022886591,College of Arts and Sciences,BS Statistics,A,2022,1st,1,91.13,0,2021,12
+2022886591,College of Arts and Sciences,BS Statistics,A,2022,2nd,1,86.4,2,2022,6
+2022886591,College of Arts and Sciences,BS Statistics,A,2023,1st,2,86.05,2,2022,12
+2022886591,College of Arts and Sciences,BS Statistics,A,2023,2nd,2,89.72,0,2023,6
+2022886591,College of Arts and Sciences,BS Statistics,A,2024,1st,3,95.78,0,2023,12
+2022886591,College of Arts and Sciences,BS Statistics,A,2024,2nd,3,95.61,0,2024,6
+2022886591,College of Arts and Sciences,BS Statistics,A,2025,1st,4,97.74,1,2024,12
+2022886591,College of Arts and Sciences,BS Statistics,A,2025,2nd,4,91.66,0,2025,6
+2022768623,College of Arts and Sciences,BS Statistics,A,2022,1st,1,95.9,0,2021,12
+2022768623,College of Arts and Sciences,BS Statistics,A,2022,2nd,1,88.21,0,2022,6
+2022768623,College of Arts and Sciences,BS Statistics,A,2023,1st,2,87.34,0,2022,12
+2022768623,College of Arts and Sciences,BS Statistics,A,2023,2nd,2,92.91,3,2023,6
+2022768623,College of Arts and Sciences,BS Statistics,A,2024,1st,3,86.23,0,2023,12
+2022768623,College of Arts and Sciences,BS Statistics,A,2024,2nd,3,90.3,0,2024,6
+2022768623,College of Arts and Sciences,BS Statistics,A,2025,1st,4,89.08,1,2024,12
+2022768623,College of Arts and Sciences,BS Statistics,A,2025,2nd,4,93.74,0,2025,6
+2022530291,College of Arts and Sciences,BS Statistics,A,2022,1st,1,87.73,0,2021,12
+2022530291,College of Arts and Sciences,BS Statistics,A,2022,2nd,1,94.42,0,2022,6
+2022530291,College of Arts and Sciences,BS Statistics,A,2023,1st,2,97.98,0,2022,12
+2022530291,College of Arts and Sciences,BS Statistics,A,2023,2nd,2,94.22,0,2023,6
+2022530291,College of Arts and Sciences,BS Statistics,A,2024,1st,3,93.78,0,2023,12
+2022530291,College of Arts and Sciences,BS Statistics,A,2024,2nd,3,87.11,0,2024,6
+2022530291,College of Arts and Sciences,BS Statistics,A,2025,1st,4,86.9,0,2024,12
+2022530291,College of Arts and Sciences,BS Statistics,A,2025,2nd,4,88.34,1,2025,6
+2022401087,College of Arts and Sciences,BS Statistics,A,2023,1st,1,88.37,1,2022,12
+2022401087,College of Arts and Sciences,BS Statistics,A,2023,2nd,1,87.65,0,2023,6
+2022401087,College of Arts and Sciences,BS Statistics,A,2024,1st,2,96.0,0,2023,12
+2022401087,College of Arts and Sciences,BS Statistics,A,2024,2nd,2,88.37,0,2024,6
+2022401087,College of Arts and Sciences,BS Statistics,A,2025,1st,3,85.12,1,2024,12
+2022401087,College of Arts and Sciences,BS Statistics,A,2025,2nd,3,93.96,0,2025,6
+2022401087,College of Arts and Sciences,BS Statistics,A,2026,1st,4,90.89,0,2025,12
+2022954470,College of Arts and Sciences,BS Statistics,A,2023,1st,1,85.46,3,2022,12
+2022954470,College of Arts and Sciences,BS Statistics,A,2023,2nd,1,96.41,0,2023,6
+2022954470,College of Arts and Sciences,BS Statistics,A,2024,1st,2,92.71,0,2023,12
+2022954470,College of Arts and Sciences,BS Statistics,A,2024,2nd,2,96.9,0,2024,6
+2022954470,College of Arts and Sciences,BS Statistics,A,2025,1st,3,86.89,0,2024,12
+2022954470,College of Arts and Sciences,BS Statistics,A,2025,2nd,3,85.48,2,2025,6
+2022954470,College of Arts and Sciences,BS Statistics,A,2026,1st,4,88.5,1,2025,12
+2022257324,College of Arts and Sciences,BS Statistics,A,2024,1st,1,94.04,1,2023,12
+2022257324,College of Arts and Sciences,BS Statistics,A,2024,2nd,1,93.45,0,2024,6
+2022257324,College of Arts and Sciences,BS Statistics,A,2025,1st,2,97.8,0,2024,12
+2022257324,College of Arts and Sciences,BS Statistics,A,2025,2nd,2,93.71,0,2025,6
+2022257324,College of Arts and Sciences,BS Statistics,A,2026,1st,3,86.69,0,2025,12
+2022111743,College of Arts and Sciences,BS Statistics,A,2024,1st,1,93.73,0,2023,12
+2022111743,College of Arts and Sciences,BS Statistics,A,2024,2nd,1,96.0,0,2024,6
+2022111743,College of Arts and Sciences,BS Statistics,A,2025,1st,2,96.34,0,2024,12
+2022111743,College of Arts and Sciences,BS Statistics,A,2025,2nd,2,87.42,0,2025,6
+2022111743,College of Arts and Sciences,BS Statistics,A,2026,1st,3,89.88,3,2025,12
+2022708175,College of Arts and Sciences,BS Statistics,A,2025,1st,1,94.02,0,2024,12
+2022708175,College of Arts and Sciences,BS Statistics,A,2025,2nd,1,86.83,2,2025,6
+2022708175,College of Arts and Sciences,BS Statistics,A,2026,1st,2,93.29,2,2025,12
+2022359305,College of Arts and Sciences,BS Statistics,A,2025,1st,1,85.53,1,2024,12
+2022359305,College of Arts and Sciences,BS Statistics,A,2025,2nd,1,88.98,0,2025,6
+2022359305,College of Arts and Sciences,BS Statistics,A,2026,1st,2,96.29,0,2025,12
+2022241398,College of Arts and Sciences,BS Biology,A,2022,1st,1,96.93,0,2021,12
+2022241398,College of Arts and Sciences,BS Biology,A,2022,2nd,1,96.93,0,2022,6
+2022241398,College of Arts and Sciences,BS Biology,A,2023,1st,2,91.56,0,2022,12
+2022241398,College of Arts and Sciences,BS Biology,A,2023,2nd,2,89.57,0,2023,6
+2022241398,College of Arts and Sciences,BS Biology,A,2024,1st,3,96.14,0,2023,12
+2022241398,College of Arts and Sciences,BS Biology,A,2024,2nd,3,85.47,0,2024,6
+2022241398,College of Arts and Sciences,BS Biology,A,2025,1st,4,95.87,1,2024,12
+2022241398,College of Arts and Sciences,BS Biology,A,2025,2nd,4,86.78,0,2025,6
+2022616444,College of Arts and Sciences,BS Biology,A,2022,1st,1,89.78,0,2021,12
+2022616444,College of Arts and Sciences,BS Biology,A,2022,2nd,1,94.35,0,2022,6
+2022616444,College of Arts and Sciences,BS Biology,A,2023,1st,2,88.38,0,2022,12
+2022616444,College of Arts and Sciences,BS Biology,A,2023,2nd,2,93.48,1,2023,6
+2022616444,College of Arts and Sciences,BS Biology,A,2024,1st,3,86.51,0,2023,12
+2022616444,College of Arts and Sciences,BS Biology,A,2024,2nd,3,85.78,0,2024,6
+2022616444,College of Arts and Sciences,BS Biology,A,2025,1st,4,96.59,0,2024,12
+2022616444,College of Arts and Sciences,BS Biology,A,2025,2nd,4,97.33,0,2025,6
+2022793168,College of Arts and Sciences,BS Biology,A,2022,1st,1,94.53,0,2021,12
+2022793168,College of Arts and Sciences,BS Biology,A,2022,2nd,1,90.86,0,2022,6
+2022793168,College of Arts and Sciences,BS Biology,A,2023,1st,2,94.97,1,2022,12
+2022793168,College of Arts and Sciences,BS Biology,A,2023,2nd,2,96.78,0,2023,6
+2022793168,College of Arts and Sciences,BS Biology,A,2024,1st,3,95.85,0,2023,12
+2022793168,College of Arts and Sciences,BS Biology,A,2024,2nd,3,97.32,0,2024,6
+2022793168,College of Arts and Sciences,BS Biology,A,2025,1st,4,87.13,0,2024,12
+2022793168,College of Arts and Sciences,BS Biology,A,2025,2nd,4,87.38,1,2025,6
+2022932324,College of Arts and Sciences,BS Biology,A,2022,1st,1,95.74,0,2021,12
+2022932324,College of Arts and Sciences,BS Biology,A,2022,2nd,1,94.67,1,2022,6
+2022932324,College of Arts and Sciences,BS Biology,A,2023,1st,2,90.73,0,2022,12
+2022932324,College of Arts and Sciences,BS Biology,A,2023,2nd,2,88.19,0,2023,6
+2022932324,College of Arts and Sciences,BS Biology,A,2024,1st,3,92.2,0,2023,12
+2022932324,College of Arts and Sciences,BS Biology,A,2024,2nd,3,92.42,0,2024,6
+2022932324,College of Arts and Sciences,BS Biology,A,2025,1st,4,96.26,0,2024,12
+2022932324,College of Arts and Sciences,BS Biology,A,2025,2nd,4,91.44,0,2025,6
+2022126490,College of Arts and Sciences,BS Biology,A,2022,1st,1,86.72,0,2021,12
+2022126490,College of Arts and Sciences,BS Biology,A,2022,2nd,1,85.7,1,2022,6
+2022126490,College of Arts and Sciences,BS Biology,A,2023,1st,2,87.25,0,2022,12
+2022126490,College of Arts and Sciences,BS Biology,A,2023,2nd,2,97.16,0,2023,6
+2022126490,College of Arts and Sciences,BS Biology,A,2024,1st,3,92.49,1,2023,12
+2022126490,College of Arts and Sciences,BS Biology,A,2024,2nd,3,85.69,1,2024,6
+2022126490,College of Arts and Sciences,BS Biology,A,2025,1st,4,93.89,0,2024,12
+2022126490,College of Arts and Sciences,BS Biology,A,2025,2nd,4,93.36,0,2025,6
+2022117929,College of Arts and Sciences,BS Biology,A,2023,1st,1,94.69,0,2022,12
+2022117929,College of Arts and Sciences,BS Biology,A,2023,2nd,1,92.52,2,2023,6
+2022117929,College of Arts and Sciences,BS Biology,A,2024,1st,2,94.48,0,2023,12
+2022117929,College of Arts and Sciences,BS Biology,A,2024,2nd,2,89.3,0,2024,6
+2022117929,College of Arts and Sciences,BS Biology,A,2025,1st,3,96.02,0,2024,12
+2022117929,College of Arts and Sciences,BS Biology,A,2025,2nd,3,85.41,0,2025,6
+2022117929,College of Arts and Sciences,BS Biology,A,2026,1st,4,90.63,0,2025,12
+2022720251,College of Arts and Sciences,BS Biology,A,2023,1st,1,94.35,0,2022,12
+2022720251,College of Arts and Sciences,BS Biology,A,2023,2nd,1,94.79,2,2023,6
+2022720251,College of Arts and Sciences,BS Biology,A,2024,1st,2,97.04,0,2023,12
+2022720251,College of Arts and Sciences,BS Biology,A,2024,2nd,2,90.05,2,2024,6
+2022720251,College of Arts and Sciences,BS Biology,A,2025,1st,3,90.27,1,2024,12
+2022720251,College of Arts and Sciences,BS Biology,A,2025,2nd,3,85.89,2,2025,6
+2022720251,College of Arts and Sciences,BS Biology,A,2026,1st,4,90.89,0,2025,12
+2022318769,College of Arts and Sciences,BS Biology,A,2024,1st,1,85.42,2,2023,12
+2022318769,College of Arts and Sciences,BS Biology,A,2024,2nd,1,89.42,0,2024,6
+2022318769,College of Arts and Sciences,BS Biology,A,2025,1st,2,93.41,0,2024,12
+2022318769,College of Arts and Sciences,BS Biology,A,2025,2nd,2,85.69,0,2025,6
+2022318769,College of Arts and Sciences,BS Biology,A,2026,1st,3,86.15,0,2025,12
+2022585497,College of Arts and Sciences,BS Biology,A,2024,1st,1,86.87,0,2023,12
+2022585497,College of Arts and Sciences,BS Biology,A,2024,2nd,1,94.14,3,2024,6
+2022585497,College of Arts and Sciences,BS Biology,A,2025,1st,2,85.27,0,2024,12
+2022585497,College of Arts and Sciences,BS Biology,A,2025,2nd,2,87.96,0,2025,6
+2022585497,College of Arts and Sciences,BS Biology,A,2026,1st,3,94.69,1,2025,12
+2022767586,College of Arts and Sciences,BS Biology,A,2025,1st,1,86.32,2,2024,12
+2022767586,College of Arts and Sciences,BS Biology,A,2025,2nd,1,88.24,1,2025,6
+2022767586,College of Arts and Sciences,BS Biology,A,2026,1st,2,97.65,0,2025,12
+2022198288,College of Arts and Sciences,BS Biology,A,2025,1st,1,89.13,0,2024,12
+2022198288,College of Arts and Sciences,BS Biology,A,2025,2nd,1,91.12,1,2025,6
+2022198288,College of Arts and Sciences,BS Biology,A,2026,1st,2,93.89,0,2025,12
+2022414878,College of Education,BS Secondary Education - Major in English,A,2022,1st,1,86.37,0,2021,12
+2022414878,College of Education,BS Secondary Education - Major in English,A,2022,2nd,1,89.6,0,2022,6
+2022414878,College of Education,BS Secondary Education - Major in English,A,2023,1st,2,94.04,0,2022,12
+2022414878,College of Education,BS Secondary Education - Major in English,A,2023,2nd,2,91.48,0,2023,6
+2022414878,College of Education,BS Secondary Education - Major in English,A,2024,1st,3,90.71,0,2023,12
+2022414878,College of Education,BS Secondary Education - Major in English,A,2024,2nd,3,85.52,0,2024,6
+2022414878,College of Education,BS Secondary Education - Major in English,A,2025,1st,4,94.13,0,2024,12
+2022414878,College of Education,BS Secondary Education - Major in English,A,2025,2nd,4,86.38,0,2025,6
+2022498612,College of Education,BS Secondary Education - Major in English,A,2022,1st,1,86.08,0,2021,12
+2022498612,College of Education,BS Secondary Education - Major in English,A,2022,2nd,1,94.53,0,2022,6
+2022498612,College of Education,BS Secondary Education - Major in English,A,2023,1st,2,94.6,0,2022,12
+2022498612,College of Education,BS Secondary Education - Major in English,A,2023,2nd,2,90.21,0,2023,6
+2022498612,College of Education,BS Secondary Education - Major in English,A,2024,1st,3,89.15,1,2023,12
+2022498612,College of Education,BS Secondary Education - Major in English,A,2024,2nd,3,91.11,2,2024,6
+2022498612,College of Education,BS Secondary Education - Major in English,A,2025,1st,4,87.57,0,2024,12
+2022498612,College of Education,BS Secondary Education - Major in English,A,2025,2nd,4,92.74,0,2025,6
+2022833521,College of Education,BS Secondary Education - Major in English,A,2022,1st,1,89.8,0,2021,12
+2022833521,College of Education,BS Secondary Education - Major in English,A,2022,2nd,1,94.44,0,2022,6
+2022833521,College of Education,BS Secondary Education - Major in English,A,2023,1st,2,94.97,0,2022,12
+2022833521,College of Education,BS Secondary Education - Major in English,A,2023,2nd,2,87.39,0,2023,6
+2022833521,College of Education,BS Secondary Education - Major in English,A,2024,1st,3,87.23,3,2023,12
+2022833521,College of Education,BS Secondary Education - Major in English,A,2024,2nd,3,87.44,0,2024,6
+2022833521,College of Education,BS Secondary Education - Major in English,A,2025,1st,4,85.44,0,2024,12
+2022833521,College of Education,BS Secondary Education - Major in English,A,2025,2nd,4,95.24,0,2025,6
+2022842618,College of Education,BS Secondary Education - Major in English,A,2022,1st,1,92.19,0,2021,12
+2022842618,College of Education,BS Secondary Education - Major in English,A,2022,2nd,1,88.85,0,2022,6
+2022842618,College of Education,BS Secondary Education - Major in English,A,2023,1st,2,86.91,2,2022,12
+2022842618,College of Education,BS Secondary Education - Major in English,A,2023,2nd,2,92.07,0,2023,6
+2022842618,College of Education,BS Secondary Education - Major in English,A,2024,1st,3,90.63,1,2023,12
+2022842618,College of Education,BS Secondary Education - Major in English,A,2024,2nd,3,96.68,0,2024,6
+2022842618,College of Education,BS Secondary Education - Major in English,A,2025,1st,4,88.51,0,2024,12
+2022842618,College of Education,BS Secondary Education - Major in English,A,2025,2nd,4,89.13,0,2025,6
+2022436530,College of Education,BS Secondary Education - Major in English,A,2022,1st,1,95.57,0,2021,12
+2022436530,College of Education,BS Secondary Education - Major in English,A,2022,2nd,1,91.45,0,2022,6
+2022436530,College of Education,BS Secondary Education - Major in English,A,2023,1st,2,90.01,1,2022,12
+2022436530,College of Education,BS Secondary Education - Major in English,A,2023,2nd,2,92.43,1,2023,6
+2022436530,College of Education,BS Secondary Education - Major in English,A,2024,1st,3,89.42,0,2023,12
+2022436530,College of Education,BS Secondary Education - Major in English,A,2024,2nd,3,86.64,0,2024,6
+2022436530,College of Education,BS Secondary Education - Major in English,A,2025,1st,4,97.13,0,2024,12
+2022436530,College of Education,BS Secondary Education - Major in English,A,2025,2nd,4,91.75,0,2025,6
+2022668714,College of Education,BS Secondary Education - Major in English,A,2023,1st,1,94.67,3,2022,12
+2022668714,College of Education,BS Secondary Education - Major in English,A,2023,2nd,1,88.65,0,2023,6
+2022668714,College of Education,BS Secondary Education - Major in English,A,2024,1st,2,97.31,0,2023,12
+2022668714,College of Education,BS Secondary Education - Major in English,A,2024,2nd,2,93.37,0,2024,6
+2022668714,College of Education,BS Secondary Education - Major in English,A,2025,1st,3,96.25,0,2024,12
+2022668714,College of Education,BS Secondary Education - Major in English,A,2025,2nd,3,96.11,1,2025,6
+2022668714,College of Education,BS Secondary Education - Major in English,A,2026,1st,4,92.16,0,2025,12
+2022347028,College of Education,BS Secondary Education - Major in English,A,2023,1st,1,89.34,0,2022,12
+2022347028,College of Education,BS Secondary Education - Major in English,A,2023,2nd,1,88.44,0,2023,6
+2022347028,College of Education,BS Secondary Education - Major in English,A,2024,1st,2,89.5,0,2023,12
+2022347028,College of Education,BS Secondary Education - Major in English,A,2024,2nd,2,97.67,0,2024,6
+2022347028,College of Education,BS Secondary Education - Major in English,A,2025,1st,3,97.26,0,2024,12
+2022347028,College of Education,BS Secondary Education - Major in English,A,2025,2nd,3,85.61,0,2025,6
+2022347028,College of Education,BS Secondary Education - Major in English,A,2026,1st,4,95.11,0,2025,12
+2022714258,College of Education,BS Secondary Education - Major in English,A,2024,1st,1,94.06,1,2023,12
+2022714258,College of Education,BS Secondary Education - Major in English,A,2024,2nd,1,95.68,0,2024,6
+2022714258,College of Education,BS Secondary Education - Major in English,A,2025,1st,2,95.78,0,2024,12
+2022714258,College of Education,BS Secondary Education - Major in English,A,2025,2nd,2,94.96,0,2025,6
+2022714258,College of Education,BS Secondary Education - Major in English,A,2026,1st,3,91.46,0,2025,12
+2022619020,College of Education,BS Secondary Education - Major in English,A,2024,1st,1,96.43,0,2023,12
+2022619020,College of Education,BS Secondary Education - Major in English,A,2024,2nd,1,94.47,0,2024,6
+2022619020,College of Education,BS Secondary Education - Major in English,A,2025,1st,2,96.16,0,2024,12
+2022619020,College of Education,BS Secondary Education - Major in English,A,2025,2nd,2,86.4,0,2025,6
+2022619020,College of Education,BS Secondary Education - Major in English,A,2026,1st,3,90.49,0,2025,12
+2022481368,College of Education,BS Secondary Education - Major in English,A,2025,1st,1,90.27,0,2024,12
+2022481368,College of Education,BS Secondary Education - Major in English,A,2025,2nd,1,97.52,0,2025,6
+2022481368,College of Education,BS Secondary Education - Major in English,A,2026,1st,2,93.95,1,2025,12
+2022675182,College of Education,BS Secondary Education - Major in English,A,2025,1st,1,88.97,0,2024,12
+2022675182,College of Education,BS Secondary Education - Major in English,A,2025,2nd,1,91.86,0,2025,6
+2022675182,College of Education,BS Secondary Education - Major in English,A,2026,1st,2,92.19,2,2025,12
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2022,1st,1,90.98,0,2021,12
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2022,2nd,1,88.1,0,2022,6
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,2,95.9,1,2022,12
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,2,86.54,0,2023,6
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,3,92.42,0,2023,12
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,3,94.47,0,2024,6
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,4,93.83,0,2024,12
+2022581568,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,4,89.07,0,2025,6
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2022,1st,1,96.26,0,2021,12
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2022,2nd,1,87.69,0,2022,6
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,2,96.96,0,2022,12
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,2,87.93,0,2023,6
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,3,87.36,0,2023,12
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,3,89.82,0,2024,6
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,4,93.73,1,2024,12
+2022395997,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,4,88.65,2,2025,6
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2022,1st,1,86.41,0,2021,12
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2022,2nd,1,93.21,2,2022,6
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,2,87.92,0,2022,12
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,2,85.98,0,2023,6
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,3,90.76,0,2023,12
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,3,86.91,0,2024,6
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,4,88.66,0,2024,12
+2022546441,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,4,95.34,0,2025,6
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2022,1st,1,95.02,0,2021,12
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2022,2nd,1,94.39,0,2022,6
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,2,93.85,0,2022,12
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,2,94.81,0,2023,6
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,3,94.71,0,2023,12
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,3,86.64,2,2024,6
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,4,93.66,0,2024,12
+2022659769,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,4,97.65,0,2025,6
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2022,1st,1,85.65,0,2021,12
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2022,2nd,1,90.96,0,2022,6
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,2,88.85,0,2022,12
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,2,93.36,3,2023,6
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,3,85.01,0,2023,12
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,3,92.01,0,2024,6
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,4,97.94,0,2024,12
+2022530498,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,4,91.08,2,2025,6
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,1,94.58,0,2022,12
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,1,96.56,2,2023,6
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,2,97.26,0,2023,12
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,2,85.67,0,2024,6
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,3,87.66,0,2024,12
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,3,86.73,0,2025,6
+2022960131,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,4,89.33,0,2025,12
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2023,1st,1,87.83,0,2022,12
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2023,2nd,1,91.91,0,2023,6
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,2,96.98,1,2023,12
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,2,85.06,2,2024,6
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,3,86.64,0,2024,12
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,3,94.0,1,2025,6
+2022363144,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,4,92.19,0,2025,12
+2022460775,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,1,92.76,1,2023,12
+2022460775,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,1,87.41,1,2024,6
+2022460775,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,2,93.4,0,2024,12
+2022460775,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,2,93.79,0,2025,6
+2022460775,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,3,94.74,0,2025,12
+2022840325,College of Education,BS Secondary Education - Major in Filipino,A,2024,1st,1,92.25,0,2023,12
+2022840325,College of Education,BS Secondary Education - Major in Filipino,A,2024,2nd,1,87.11,0,2024,6
+2022840325,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,2,92.13,1,2024,12
+2022840325,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,2,95.74,1,2025,6
+2022840325,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,3,95.3,0,2025,12
+2022656142,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,1,91.63,0,2024,12
+2022656142,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,1,91.16,0,2025,6
+2022656142,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,2,88.45,0,2025,12
+2022243912,College of Education,BS Secondary Education - Major in Filipino,A,2025,1st,1,91.79,0,2024,12
+2022243912,College of Education,BS Secondary Education - Major in Filipino,A,2025,2nd,1,91.14,0,2025,6
+2022243912,College of Education,BS Secondary Education - Major in Filipino,A,2026,1st,2,93.75,0,2025,12
+2022609727,College of Business Studies,BS Accountancy,A,2022,1st,1,94.36,0,2021,12
+2022609727,College of Business Studies,BS Accountancy,A,2022,2nd,1,92.51,1,2022,6
+2022609727,College of Business Studies,BS Accountancy,A,2023,1st,2,92.44,0,2022,12
+2022609727,College of Business Studies,BS Accountancy,A,2023,2nd,2,89.09,1,2023,6
+2022609727,College of Business Studies,BS Accountancy,A,2024,1st,3,96.68,3,2023,12
+2022609727,College of Business Studies,BS Accountancy,A,2024,2nd,3,97.69,0,2024,6
+2022609727,College of Business Studies,BS Accountancy,A,2025,1st,4,88.9,0,2024,12
+2022609727,College of Business Studies,BS Accountancy,A,2025,2nd,4,88.85,0,2025,6
+2022250528,College of Business Studies,BS Accountancy,A,2022,1st,1,88.59,1,2021,12
+2022250528,College of Business Studies,BS Accountancy,A,2022,2nd,1,94.75,0,2022,6
+2022250528,College of Business Studies,BS Accountancy,A,2023,1st,2,94.18,0,2022,12
+2022250528,College of Business Studies,BS Accountancy,A,2023,2nd,2,92.82,1,2023,6
+2022250528,College of Business Studies,BS Accountancy,A,2024,1st,3,92.2,0,2023,12
+2022250528,College of Business Studies,BS Accountancy,A,2024,2nd,3,91.42,0,2024,6
+2022250528,College of Business Studies,BS Accountancy,A,2025,1st,4,92.15,0,2024,12
+2022250528,College of Business Studies,BS Accountancy,A,2025,2nd,4,90.35,1,2025,6
+2022747727,College of Business Studies,BS Accountancy,A,2022,1st,1,88.98,0,2021,12
+2022747727,College of Business Studies,BS Accountancy,A,2022,2nd,1,93.61,0,2022,6
+2022747727,College of Business Studies,BS Accountancy,A,2023,1st,2,90.36,0,2022,12
+2022747727,College of Business Studies,BS Accountancy,A,2023,2nd,2,87.74,0,2023,6
+2022747727,College of Business Studies,BS Accountancy,A,2024,1st,3,88.72,0,2023,12
+2022747727,College of Business Studies,BS Accountancy,A,2024,2nd,3,93.58,0,2024,6
+2022747727,College of Business Studies,BS Accountancy,A,2025,1st,4,95.9,1,2024,12
+2022747727,College of Business Studies,BS Accountancy,A,2025,2nd,4,97.45,1,2025,6
+2022556586,College of Business Studies,BS Accountancy,A,2022,1st,1,90.19,0,2021,12
+2022556586,College of Business Studies,BS Accountancy,A,2022,2nd,1,90.21,0,2022,6
+2022556586,College of Business Studies,BS Accountancy,A,2023,1st,2,92.15,1,2022,12
+2022556586,College of Business Studies,BS Accountancy,A,2023,2nd,2,93.76,0,2023,6
+2022556586,College of Business Studies,BS Accountancy,A,2024,1st,3,91.37,0,2023,12
+2022556586,College of Business Studies,BS Accountancy,A,2024,2nd,3,89.64,0,2024,6
+2022556586,College of Business Studies,BS Accountancy,A,2025,1st,4,85.92,0,2024,12
+2022556586,College of Business Studies,BS Accountancy,A,2025,2nd,4,86.55,0,2025,6
+2022740101,College of Business Studies,BS Accountancy,A,2022,1st,1,88.99,2,2021,12
+2022740101,College of Business Studies,BS Accountancy,A,2022,2nd,1,94.42,1,2022,6
+2022740101,College of Business Studies,BS Accountancy,A,2023,1st,2,92.58,2,2022,12
+2022740101,College of Business Studies,BS Accountancy,A,2023,2nd,2,94.86,0,2023,6
+2022740101,College of Business Studies,BS Accountancy,A,2024,1st,3,92.11,0,2023,12
+2022740101,College of Business Studies,BS Accountancy,A,2024,2nd,3,91.54,0,2024,6
+2022740101,College of Business Studies,BS Accountancy,A,2025,1st,4,85.66,0,2024,12
+2022740101,College of Business Studies,BS Accountancy,A,2025,2nd,4,91.91,3,2025,6
+2022827669,College of Business Studies,BS Accountancy,A,2023,1st,1,89.64,0,2022,12
+2022827669,College of Business Studies,BS Accountancy,A,2023,2nd,1,92.13,0,2023,6
+2022827669,College of Business Studies,BS Accountancy,A,2024,1st,2,89.6,0,2023,12
+2022827669,College of Business Studies,BS Accountancy,A,2024,2nd,2,96.13,0,2024,6
+2022827669,College of Business Studies,BS Accountancy,A,2025,1st,3,90.68,1,2024,12
+2022827669,College of Business Studies,BS Accountancy,A,2025,2nd,3,85.44,0,2025,6
+2022827669,College of Business Studies,BS Accountancy,A,2026,1st,4,92.22,0,2025,12
+2022155957,College of Business Studies,BS Accountancy,A,2023,1st,1,94.98,0,2022,12
+2022155957,College of Business Studies,BS Accountancy,A,2023,2nd,1,88.55,0,2023,6
+2022155957,College of Business Studies,BS Accountancy,A,2024,1st,2,95.79,1,2023,12
+2022155957,College of Business Studies,BS Accountancy,A,2024,2nd,2,93.73,0,2024,6
+2022155957,College of Business Studies,BS Accountancy,A,2025,1st,3,88.86,0,2024,12
+2022155957,College of Business Studies,BS Accountancy,A,2025,2nd,3,92.11,0,2025,6
+2022155957,College of Business Studies,BS Accountancy,A,2026,1st,4,85.29,0,2025,12
+2022934843,College of Business Studies,BS Accountancy,A,2024,1st,1,93.11,0,2023,12
+2022934843,College of Business Studies,BS Accountancy,A,2024,2nd,1,85.13,0,2024,6
+2022934843,College of Business Studies,BS Accountancy,A,2025,1st,2,89.11,0,2024,12
+2022934843,College of Business Studies,BS Accountancy,A,2025,2nd,2,96.26,0,2025,6
+2022934843,College of Business Studies,BS Accountancy,A,2026,1st,3,85.98,0,2025,12
+2022718992,College of Business Studies,BS Accountancy,A,2024,1st,1,96.44,1,2023,12
+2022718992,College of Business Studies,BS Accountancy,A,2024,2nd,1,94.98,1,2024,6
+2022718992,College of Business Studies,BS Accountancy,A,2025,1st,2,88.7,0,2024,12
+2022718992,College of Business Studies,BS Accountancy,A,2025,2nd,2,85.58,1,2025,6
+2022718992,College of Business Studies,BS Accountancy,A,2026,1st,3,95.08,1,2025,12
+2022328570,College of Business Studies,BS Accountancy,A,2025,1st,1,92.4,0,2024,12
+2022328570,College of Business Studies,BS Accountancy,A,2025,2nd,1,93.39,0,2025,6
+2022328570,College of Business Studies,BS Accountancy,A,2026,1st,2,88.17,0,2025,12
+2022719287,College of Business Studies,BS Accountancy,A,2025,1st,1,90.45,0,2024,12
+2022719287,College of Business Studies,BS Accountancy,A,2025,2nd,1,91.24,2,2025,6
+2022719287,College of Business Studies,BS Accountancy,A,2026,1st,2,94.89,0,2025,12
+2022109008,College of Business Studies,BS Public Administration,A,2022,1st,1,93.52,0,2021,12
+2022109008,College of Business Studies,BS Public Administration,A,2022,2nd,1,96.05,0,2022,6
+2022109008,College of Business Studies,BS Public Administration,A,2023,1st,2,87.87,0,2022,12
+2022109008,College of Business Studies,BS Public Administration,A,2023,2nd,2,90.87,0,2023,6
+2022109008,College of Business Studies,BS Public Administration,A,2024,1st,3,93.49,0,2023,12
+2022109008,College of Business Studies,BS Public Administration,A,2024,2nd,3,87.51,0,2024,6
+2022109008,College of Business Studies,BS Public Administration,A,2025,1st,4,93.33,2,2024,12
+2022109008,College of Business Studies,BS Public Administration,A,2025,2nd,4,85.24,0,2025,6
+2022822489,College of Business Studies,BS Public Administration,A,2022,1st,1,85.26,3,2021,12
+2022822489,College of Business Studies,BS Public Administration,A,2022,2nd,1,90.92,0,2022,6
+2022822489,College of Business Studies,BS Public Administration,A,2023,1st,2,89.73,2,2022,12
+2022822489,College of Business Studies,BS Public Administration,A,2023,2nd,2,86.73,1,2023,6
+2022822489,College of Business Studies,BS Public Administration,A,2024,1st,3,92.95,0,2023,12
+2022822489,College of Business Studies,BS Public Administration,A,2024,2nd,3,89.23,0,2024,6
+2022822489,College of Business Studies,BS Public Administration,A,2025,1st,4,89.24,0,2024,12
+2022822489,College of Business Studies,BS Public Administration,A,2025,2nd,4,93.71,0,2025,6
+2022238061,College of Business Studies,BS Public Administration,A,2022,1st,1,94.03,0,2021,12
+2022238061,College of Business Studies,BS Public Administration,A,2022,2nd,1,97.37,0,2022,6
+2022238061,College of Business Studies,BS Public Administration,A,2023,1st,2,94.16,0,2022,12
+2022238061,College of Business Studies,BS Public Administration,A,2023,2nd,2,88.85,0,2023,6
+2022238061,College of Business Studies,BS Public Administration,A,2024,1st,3,85.52,0,2023,12
+2022238061,College of Business Studies,BS Public Administration,A,2024,2nd,3,85.72,0,2024,6
+2022238061,College of Business Studies,BS Public Administration,A,2025,1st,4,91.14,1,2024,12
+2022238061,College of Business Studies,BS Public Administration,A,2025,2nd,4,89.27,0,2025,6
+2022763670,College of Business Studies,BS Public Administration,A,2022,1st,1,90.02,0,2021,12
+2022763670,College of Business Studies,BS Public Administration,A,2022,2nd,1,94.67,0,2022,6
+2022763670,College of Business Studies,BS Public Administration,A,2023,1st,2,86.75,0,2022,12
+2022763670,College of Business Studies,BS Public Administration,A,2023,2nd,2,97.19,2,2023,6
+2022763670,College of Business Studies,BS Public Administration,A,2024,1st,3,90.0,0,2023,12
+2022763670,College of Business Studies,BS Public Administration,A,2024,2nd,3,94.24,1,2024,6
+2022763670,College of Business Studies,BS Public Administration,A,2025,1st,4,85.24,2,2024,12
+2022763670,College of Business Studies,BS Public Administration,A,2025,2nd,4,95.48,0,2025,6
+2022917316,College of Business Studies,BS Public Administration,A,2022,1st,1,88.35,0,2021,12
+2022917316,College of Business Studies,BS Public Administration,A,2022,2nd,1,97.05,0,2022,6
+2022917316,College of Business Studies,BS Public Administration,A,2023,1st,2,92.84,0,2022,12
+2022917316,College of Business Studies,BS Public Administration,A,2023,2nd,2,87.16,0,2023,6
+2022917316,College of Business Studies,BS Public Administration,A,2024,1st,3,97.23,1,2023,12
+2022917316,College of Business Studies,BS Public Administration,A,2024,2nd,3,97.23,1,2024,6
+2022917316,College of Business Studies,BS Public Administration,A,2025,1st,4,95.07,0,2024,12
+2022917316,College of Business Studies,BS Public Administration,A,2025,2nd,4,95.22,0,2025,6
+2022877790,College of Business Studies,BS Public Administration,A,2023,1st,1,92.07,1,2022,12
+2022877790,College of Business Studies,BS Public Administration,A,2023,2nd,1,87.48,0,2023,6
+2022877790,College of Business Studies,BS Public Administration,A,2024,1st,2,93.81,0,2023,12
+2022877790,College of Business Studies,BS Public Administration,A,2024,2nd,2,85.4,0,2024,6
+2022877790,College of Business Studies,BS Public Administration,A,2025,1st,3,85.96,2,2024,12
+2022877790,College of Business Studies,BS Public Administration,A,2025,2nd,3,88.78,2,2025,6
+2022877790,College of Business Studies,BS Public Administration,A,2026,1st,4,85.11,0,2025,12
+2022310813,College of Business Studies,BS Public Administration,A,2023,1st,1,87.12,0,2022,12
+2022310813,College of Business Studies,BS Public Administration,A,2023,2nd,1,91.65,0,2023,6
+2022310813,College of Business Studies,BS Public Administration,A,2024,1st,2,90.58,0,2023,12
+2022310813,College of Business Studies,BS Public Administration,A,2024,2nd,2,85.97,0,2024,6
+2022310813,College of Business Studies,BS Public Administration,A,2025,1st,3,91.39,2,2024,12
+2022310813,College of Business Studies,BS Public Administration,A,2025,2nd,3,94.76,0,2025,6
+2022310813,College of Business Studies,BS Public Administration,A,2026,1st,4,85.72,0,2025,12
+2022304898,College of Business Studies,BS Public Administration,A,2024,1st,1,85.37,0,2023,12
+2022304898,College of Business Studies,BS Public Administration,A,2024,2nd,1,92.79,2,2024,6
+2022304898,College of Business Studies,BS Public Administration,A,2025,1st,2,89.66,0,2024,12
+2022304898,College of Business Studies,BS Public Administration,A,2025,2nd,2,91.48,0,2025,6
+2022304898,College of Business Studies,BS Public Administration,A,2026,1st,3,85.6,0,2025,12
+2022391762,College of Business Studies,BS Public Administration,A,2024,1st,1,96.41,3,2023,12
+2022391762,College of Business Studies,BS Public Administration,A,2024,2nd,1,93.93,0,2024,6
+2022391762,College of Business Studies,BS Public Administration,A,2025,1st,2,89.25,1,2024,12
+2022391762,College of Business Studies,BS Public Administration,A,2025,2nd,2,95.43,0,2025,6
+2022391762,College of Business Studies,BS Public Administration,A,2026,1st,3,93.91,0,2025,12
+2022350408,College of Business Studies,BS Public Administration,A,2025,1st,1,89.73,0,2024,12
+2022350408,College of Business Studies,BS Public Administration,A,2025,2nd,1,88.44,0,2025,6
+2022350408,College of Business Studies,BS Public Administration,A,2026,1st,2,97.79,2,2025,12
+2022301669,College of Business Studies,BS Public Administration,A,2025,1st,1,91.78,1,2024,12
+2022301669,College of Business Studies,BS Public Administration,A,2025,2nd,1,93.27,1,2025,6
+2022301669,College of Business Studies,BS Public Administration,A,2026,1st,2,92.28,0,2025,12
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2022,1st,1,87.84,0,2021,12
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2022,2nd,1,85.28,1,2022,6
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,2,87.35,0,2022,12
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,2,93.31,2,2023,6
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,3,92.82,0,2023,12
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,3,90.15,2,2024,6
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,4,89.8,2,2024,12
+2022282471,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,4,97.01,0,2025,6
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2022,1st,1,94.39,1,2021,12
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2022,2nd,1,96.56,0,2022,6
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,2,88.86,2,2022,12
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,2,85.73,3,2023,6
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,3,91.4,2,2023,12
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,3,90.23,0,2024,6
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,4,90.59,0,2024,12
+2022839809,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,4,91.56,0,2025,6
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2022,1st,1,92.17,0,2021,12
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2022,2nd,1,94.08,0,2022,6
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,2,88.16,1,2022,12
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,2,89.74,1,2023,6
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,3,85.58,0,2023,12
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,3,91.57,1,2024,6
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,4,87.43,0,2024,12
+2022679238,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,4,91.16,0,2025,6
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2022,1st,1,96.5,1,2021,12
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2022,2nd,1,90.18,2,2022,6
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,2,90.98,0,2022,12
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,2,86.27,1,2023,6
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,3,88.21,0,2023,12
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,3,91.97,0,2024,6
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,4,89.47,0,2024,12
+2022595635,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,4,91.1,0,2025,6
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2022,1st,1,92.67,0,2021,12
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2022,2nd,1,89.32,0,2022,6
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,2,93.38,1,2022,12
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,2,86.24,1,2023,6
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,3,94.76,1,2023,12
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,3,87.82,0,2024,6
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,4,93.45,0,2024,12
+2022499208,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,4,88.48,0,2025,6
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,1,88.43,0,2022,12
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,1,93.88,0,2023,6
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,2,89.39,0,2023,12
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,2,97.35,0,2024,6
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,3,89.34,0,2024,12
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,3,94.97,0,2025,6
+2022730230,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,4,87.12,0,2025,12
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2023,1st,1,94.49,0,2022,12
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2023,2nd,1,90.54,0,2023,6
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,2,85.68,2,2023,12
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,2,89.95,0,2024,6
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,3,87.99,0,2024,12
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,3,89.35,0,2025,6
+2022559869,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,4,85.08,2,2025,12
+2022919164,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,1,91.17,1,2023,12
+2022919164,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,1,89.63,0,2024,6
+2022919164,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,2,94.57,3,2024,12
+2022919164,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,2,90.04,0,2025,6
+2022919164,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,3,90.02,0,2025,12
+2022323983,College of Social Sciences and Philosophy,BS Philosophy,A,2024,1st,1,90.98,1,2023,12
+2022323983,College of Social Sciences and Philosophy,BS Philosophy,A,2024,2nd,1,92.16,0,2024,6
+2022323983,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,2,89.53,0,2024,12
+2022323983,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,2,87.69,0,2025,6
+2022323983,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,3,92.97,0,2025,12
+2022660456,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,1,88.08,0,2024,12
+2022660456,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,1,87.03,0,2025,6
+2022660456,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,2,90.43,3,2025,12
+2022777599,College of Social Sciences and Philosophy,BS Philosophy,A,2025,1st,1,92.81,0,2024,12
+2022777599,College of Social Sciences and Philosophy,BS Philosophy,A,2025,2nd,1,87.03,0,2025,6
+2022777599,College of Social Sciences and Philosophy,BS Philosophy,A,2026,1st,2,92.21,0,2025,12
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2022,1st,1,85.53,0,2021,12
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2022,2nd,1,97.57,1,2022,6
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,2,91.11,1,2022,12
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,2,94.63,0,2023,6
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,3,93.57,0,2023,12
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,3,97.09,0,2024,6
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,4,89.4,0,2024,12
+2022897349,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,4,92.73,0,2025,6
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2022,1st,1,97.58,0,2021,12
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2022,2nd,1,89.96,0,2022,6
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,2,87.75,0,2022,12
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,2,89.43,0,2023,6
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,3,97.57,0,2023,12
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,3,90.43,0,2024,6
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,4,88.59,0,2024,12
+2022218426,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,4,85.45,0,2025,6
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2022,1st,1,96.13,0,2021,12
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2022,2nd,1,88.57,0,2022,6
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,2,85.04,0,2022,12
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,2,97.25,0,2023,6
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,3,95.62,2,2023,12
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,3,85.92,0,2024,6
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,4,94.86,1,2024,12
+2022551823,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,4,94.79,0,2025,6
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2022,1st,1,85.96,2,2021,12
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2022,2nd,1,92.53,1,2022,6
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,2,88.48,0,2022,12
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,2,87.06,0,2023,6
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,3,92.97,0,2023,12
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,3,92.1,2,2024,6
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,4,96.86,0,2024,12
+2022746356,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,4,87.05,0,2025,6
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2022,1st,1,94.59,0,2021,12
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2022,2nd,1,95.7,0,2022,6
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,2,93.87,0,2022,12
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,2,88.43,0,2023,6
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,3,91.18,0,2023,12
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,3,93.21,0,2024,6
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,4,91.24,0,2024,12
+2022457842,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,4,91.65,1,2025,6
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,1,87.76,0,2022,12
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,1,88.61,0,2023,6
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,2,96.58,1,2023,12
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,2,92.04,0,2024,6
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,3,85.99,0,2024,12
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,3,92.61,0,2025,6
+2022267997,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,4,92.47,1,2025,12
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2023,1st,1,86.15,0,2022,12
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2023,2nd,1,90.39,0,2023,6
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,2,88.28,0,2023,12
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,2,92.21,0,2024,6
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,3,93.61,0,2024,12
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,3,91.0,0,2025,6
+2022377677,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,4,87.73,0,2025,12
+2022794404,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,1,87.29,1,2023,12
+2022794404,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,1,85.36,3,2024,6
+2022794404,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,2,90.79,0,2024,12
+2022794404,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,2,88.44,0,2025,6
+2022794404,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,3,88.88,0,2025,12
+2022907274,College of Social Sciences and Philosophy,BS Social Work,A,2024,1st,1,86.45,3,2023,12
+2022907274,College of Social Sciences and Philosophy,BS Social Work,A,2024,2nd,1,91.94,0,2024,6
+2022907274,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,2,86.93,0,2024,12
+2022907274,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,2,94.5,1,2025,6
+2022907274,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,3,88.23,0,2025,12
+2022675532,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,1,93.69,0,2024,12
+2022675532,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,1,87.62,0,2025,6
+2022675532,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,2,95.01,0,2025,12
+2022281420,College of Social Sciences and Philosophy,BS Social Work,A,2025,1st,1,94.07,0,2024,12
+2022281420,College of Social Sciences and Philosophy,BS Social Work,A,2025,2nd,1,89.27,0,2025,6
+2022281420,College of Social Sciences and Philosophy,BS Social Work,A,2026,1st,2,89.35,0,2025,12
