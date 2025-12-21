@@ -7,7 +7,7 @@ This is a Data Pipeline with temporal modeling project designed to manage and tr
 
 ## 📌 Overview
 
-This is a project that I will pitch to my University. A robust SQL-based data pipeline designed to manage and track student records by utilizes **temporal modeling** to track the changes in their academic performance. The output contains columns such as **average per academic level, cumulative average, cumulative student history, and academic honors**
+This is a project that I will pitch to my University. A robust SQL-based data pipeline designed to manage and track student records by utilizing **temporal modeling** to track the changes in their academic performance. The output contains columns such as **average per academic level, cumulative average, cumulative student history, and academic honors**
 
 ## 🧰 Tech Stack
 
