@@ -1,8 +1,8 @@
 # Student-History-Vault
 This is a Data Pipeline with temporal modeling project designed to manage and track student records within a University setting. Capturing how student metrics such as academic averages, attendance, and honors eligibility evolve over multiple semesters.
   The system supports:
-    **1. Incremental Updates (for efficient, periodic data ingestion)**
-    **2. Batch Reconstructive Views (for generating a complete historical record easily)**
+  **- Incremental Updates (for efficient, periodic data ingestion)**
+  **2. Batch Reconstructive Views (for generating a complete historical record easily)**
 
 
 ## 📌 Overview
@@ -12,7 +12,7 @@ This is a project I will pitch to my University. A robust SQL-based data pipelin
 ## 🧰 Tech Stack
 
 - **Database:** PostgreSQL (Advanced Types, Arrays, and CTEs)
-- **Concepts** Temporal Data Modeling, ETL Staging, SCD (Slowly Changing Dimensions) logic
+- **Concepts:** Temporal Data Modeling, ETL Staging, SCD (Slowly Changing Dimensions) logic
 - **Languages:** SQL
 
 ## 🧠 Objectives
@@ -32,15 +32,16 @@ I've seen the inefficiencies of my University in calculating academic awards eli
     
 ## 📊 Processed Data :
 ![Snippet](processed_data1.png)
-![Snippet](processed_data1.png)
+![Snippet](processed_data2.png)
 
-[student_cmd.xlsx](student_cmd.xlsx)
+File: [student_cmd.xlsx](student_cmd.xlsx)
 
 ## 📊 Raw Data :
-[student_performance_raw.csv](student_performance_raw.csv)
+File: [student_performance_raw.csv](student_performance_raw.csv)
 
 
 ## ✉️ Contact
 For questions, feedback, or collaboration:
 
-**Dylan Cortez**
+**Email**📧: dylancortez.data@gmail.com
+**LinkedIn**➡️: https://www.linkedin.com/in/dylan-anthony-cortez/
