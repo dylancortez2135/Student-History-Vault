@@ -21,19 +21,23 @@ I've seen the inefficiencies of my University in calculating academic awards eli
   1. Save countless hours of the faculties, students, chairpersons, and deans of the university
   2. Have a cleaner Historical data of Student Records for easier tracking.
 
-## ⚙️ Architecture
 
-🛢️ Source Code Reference:
-[student-history-vault.sql]()
+🛢️ SQL Query:
+[student-history-vault.sql](student-history-vault.sql)
 
 
   Includes:
   - Incremental (Iterative) Update Query
   - Batch (Reconstructive) View
     
+## 📊 Processed Data :
+![Snippet](processed_data1.png)
+![Snippet](processed_data1.png)
+
+[student_cmd.xlsx](student_cmd.xlsx)
 
 ## 📊 Raw Data :
-[student_performance_raw.csv]()
+[student_performance_raw.csv](student_performance_raw.csv)
 
 
 ## ✉️ Contact
