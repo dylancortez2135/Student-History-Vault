@@ -31,8 +31,7 @@ I've seen the inefficiencies within my University in calculating academic awards
   - Batch (Reconstructive) View Query
     
 ## 📊 Processed Data :
-![Snippet](processed_data1.png)
-![Snippet](processed_data2.png)
+![Snippet](student_cmd.png)
 
 File: [student_cmd.xlsx](student_cmd.xlsx)
 
